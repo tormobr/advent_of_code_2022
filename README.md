@@ -1,30 +1,30 @@
 This repo contains the solutions to the [Advent of code](https://adventofcode.com/) puzzles.
 
 ## Progress
-| Day  | Part 1                                     | Part 2                                     |
-| -----| ------------------------------------------ | ------------------------------------------ |
-| 01   | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked /> |
-| 02   | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked /> |
-| 03   | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked /> |
-| 04   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 05   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 06   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 07   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 08   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 09   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 10   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 11   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 12   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 13   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 14   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 15   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 16   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 17   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 18   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 19   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 20   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 21   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 22   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 23   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 24   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
-| 25   | <input type="checkbox" disabled />         | <input type="checkbox" disabled />         |
+| Day  | Part 1               | Part 2               |
+| -----| -------------------- | -------------------- |
+| 01   | :white_check_mark:   | :white_large_square: |
+| 02   | :white_check_mark:   | :white_large_square: |
+| 03   | :white_check_mark:   | :white_large_square: |
+| 04   | :white_large_square: | :white_large_square: |
+| 05   | :white_large_square: | :white_large_square: |
+| 06   | :white_large_square: | :white_large_square: |
+| 07   | :white_large_square: | :white_large_square: |
+| 08   | :white_large_square: | :white_large_square: |
+| 09   | :white_large_square: | :white_large_square: |
+| 10   | :white_large_square: | :white_large_square: |
+| 11   | :white_large_square: | :white_large_square: |
+| 12   | :white_large_square: | :white_large_square: |
+| 13   | :white_large_square: | :white_large_square: |
+| 14   | :white_large_square: | :white_large_square: |
+| 15   | :white_large_square: | :white_large_square: |
+| 16   | :white_large_square: | :white_large_square: |
+| 17   | :white_large_square: | :white_large_square: |
+| 18   | :white_large_square: | :white_large_square: |
+| 19   | :white_large_square: | :white_large_square: |
+| 20   | :white_large_square: | :white_large_square: |
+| 21   | :white_large_square: | :white_large_square: |
+| 22   | :white_large_square: | :white_large_square: |
+| 23   | :white_large_square: | :white_large_square: |
+| 24   | :white_large_square: | :white_large_square: |
+| 25   | :white_large_square: | :white_large_square: |
