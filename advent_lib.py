@@ -50,7 +50,7 @@ def read_sep(filename, sep=None, f=str, use_file=True):
 def read_lines_sep(filename, sep=None, f=str, use_file=True):
     if use_file:
         if sep == "":
-            return [[f(c) for c in s.strip()] for s in open("input.txt")]
+            return [[f(c) for c in s.strip()] for s in open(filename)]
         return [[f(s.strip()) for s in x.split(sep)] for x in open(filename)]
 
     if sep == "":
