@@ -3,10 +3,10 @@ This repo contains the solutions to the [Advent of code](https://adventofcode.co
 ## Progress
 | Day  | Part 1               | Part 2               |
 | -----| -------------------- | -------------------- |
-| 01   | :white_check_mark:   | :white_check_mark: |
-| 02   | :white_check_mark:   | :white_check_mark: |
-| 03   | :white_check_mark:   | :white_check_mark: |
-| 04   | :white_large_square: | :white_large_square: |
+| 01   | :white_check_mark:   | :white_check_mark:   |
+| 02   | :white_check_mark:   | :white_check_mark:   |
+| 03   | :white_check_mark:   | :white_check_mark:   |
+| 04   | :white_check_mark:   | :white_check_mark:   |
 | 05   | :white_large_square: | :white_large_square: |
 | 06   | :white_large_square: | :white_large_square: |
 | 07   | :white_large_square: | :white_large_square: |
