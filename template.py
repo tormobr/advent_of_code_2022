@@ -12,16 +12,13 @@ from advent_lib import *
 
 # Part 1 solution : 
 def part_1():
-    data = read_lines("input.txt", f=int)
-    data = read_string("input.txt")
-    data = read_sep("input.txt", sep=",", f=int)
-    data = read_lines_sep("input.txt", sep=",", f=str)
+    filename = sys.argv[1] if len(sys.argv) == 2 else "input.txt"
+    data = read_lines(filename, f=int)
+    data = read_string(filename)
+    data = read_sep(filename, sep=",", f=int)
+    data = read_lines_sep(filename, sep=",", f=str)
 
     print_arr(data)
-
-    for y, row in enumerate(data):
-        for x, elem in enumerate(row):
-            pass
 
     return None
 
