@@ -62,9 +62,9 @@ def ints(s):
     return [int(x) for x in re.findall(r"-?\d+", s)]
 
 # Prints array items
-def print_arr(arr):
+def print_arr(arr, sep=""):
     for x in arr:
-        print(x)
+        print(f"{x}{sep}")
 
 
 # Draw matrix in terminal
