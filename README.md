@@ -23,7 +23,7 @@ This repo contains the solutions to the [Advent of code](https://adventofcode.co
 | 18   | :white_large_square: | :white_large_square: |
 | 19   | :white_large_square: | :white_large_square: |
 | 20   | :white_large_square: | :white_large_square: |
-| 21   | :white_large_square: | :white_large_square: |
+| 21   | :white_check_mark:   | :white_check_mark:   |
 | 22   | :white_large_square: | :white_large_square: |
 | 23   | :white_large_square: | :white_large_square: |
 | 24   | :white_large_square: | :white_large_square: |
