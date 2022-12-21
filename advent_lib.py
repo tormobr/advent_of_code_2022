@@ -21,6 +21,7 @@ DIRECTIONS = {
 }
 
 SPIN_DIRS = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+SPIN_DIRS_3D = [(1, 0, 0), (-1, 0, 0), (0, 1, 0), (0, -1, 0), (0, 0, 1), (0, 0, -1)]
 
 # Reads each number on each line in file and return list
 def read_lines(filename, f=int, use_file=True):
@@ -118,6 +119,7 @@ def pretty_print(part_1, part_2):
     print(f"{HEADER}Part 1: {OKGREEN} {part_1}{ENDC}")
     print(f"{HEADER}Part 2: {OKGREEN} {part_2}{ENDC}")
     print(f"{WARNING}------------------------------------\n{ENDC}")
+    os.system(f"echo \"{part_1} | {part_2}\" | xclip -sel clip")
 
 
 
