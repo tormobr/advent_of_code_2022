@@ -69,14 +69,17 @@ def print_arr(arr, sep=""):
 
 
 # Draw matrix in terminal
-def draw_matrix(m, mapping={1: WHITE_SQUARE + " ", 0:"  "}):
+def draw_matrix(m, mapping={1: WHITE_SQUARE + " ", 0:"  "}, replacing=True):
     s = "" 
     for row in m:
         s += "\t"
         for item in row:
-            if item not in mapping.keys():
-                item = 0
-            s += mapping[item]
+            if replacing:
+                if item not in mapping.keys():
+                    item = 0
+                s += mapping[item]
+            else:
+                s += item
         s += "\n"
     print(s)
     return s
@@ -114,11 +117,19 @@ def animate(arrays, filename="ani.mp4", save=False, border_width=.1, fps=60, cma
 
 
 # Pretty prints the results
-def pretty_print(part_1, part_2):
-    print(f"\n{WARNING}RESULTS:\n------------------------------------{ENDC}")
-    print(f"{HEADER}Part 1: {OKGREEN} {part_1}{ENDC}")
-    print(f"{HEADER}Part 2: {OKGREEN} {part_2}{ENDC}")
-    print(f"{WARNING}------------------------------------\n{ENDC}")
+def pretty_print(part_1, part_2, t1=None, t2=None):
+    print(f"\n{HEADER}---------------- PART 1 -------------------{ENDC}")
+
+    print(f"{ENDC}Answer: {OKGREEN} {part_1}{ENDC}")
+    if t1:
+        print(f"{ENDC}Time: {WARNING} {round(t1, 3)}{ENDC}")
+
+    print(f"\n{HEADER}---------------- PART 2 -------------------{ENDC}")
+    print(f"{ENDC}Answer: {OKGREEN} {part_2}{ENDC}")
+    if t2:
+        print(f"{ENDC}Time: {WARNING} {round(t2, 3)}{ENDC}")
+
+    print()
     os.system(f"echo \"{part_1} | {part_2}\" | xclip -sel clip")
 
 
