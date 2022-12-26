@@ -18,7 +18,7 @@ This repo contains the solutions to the [Advent of code](https://adventofcode.co
 | 13   | :white_check_mark:   | :white_check_mark:   |
 | 14   | :white_check_mark:   | :white_check_mark:   |
 | 15   | :white_check_mark:   | :white_check_mark:   |
-| 16   | :white_large_square: | :white_large_square: |
+| 16   | :white_check_mark:   | :white_check_mark:   |
 | 17   | :white_check_mark:   | :white_check_mark:   |
 | 18   | :white_check_mark:   | :white_check_mark:   |
 | 19   | :white_large_square: | :white_large_square: |
