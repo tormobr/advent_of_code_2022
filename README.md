@@ -1,6 +1,6 @@
 This repo contains the solutions to the [Advent of code](https://adventofcode.com/) puzzles.
 
-## Progress
+## Progress:
 | Day  | Part 1               | Part 2               |
 | -----| -------------------- | -------------------- |
 | 01   | :white_check_mark:   | :white_check_mark:   |
@@ -28,3 +28,6 @@ This repo contains the solutions to the [Advent of code](https://adventofcode.co
 | 23   | :white_check_mark:   | :white_check_mark:   |
 | 24   | :white_check_mark:   | :white_check_mark:   |
 | 25   | :white_check_mark:   | :white_check_mark:   |
+
+## this years ranks:
+![ranks]("ranks.png")
