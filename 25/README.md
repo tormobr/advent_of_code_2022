@@ -104,8 +104,6 @@ Reversing the process, you can determine that for the decimal number 4890, the S
 
 *Your puzzle answer was 2-0-0=1-0=2====20=-2.*
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 ## --- Part Two ---
 
 The hot air balloons quickly carry you to the North Pole. As soon as you land, most of the expedition is escorted directly to a small building attached to the reindeer stables.
@@ -114,6 +112,10 @@ The head smoothie chef has just finished warming up the industrial-grade smoothi
 
 As you do, a very young Elf - one you recognize from the expedition team - approaches the table and holds up a single star fruit he found. The head smoothie chef places it in the blender.
 
-**Only 49 stars to go.**
+Only <span style="color: gold">49 stars</span> to go.
 
-*You don't have enough stars to fill the blender, though. You need 6 more.*
+Both parts of this puzzle are complete! They provide two gold stars: <span style="color: gold">**</span>
+
+**You make a smoothie with all <span style="color: gold">fifty stars</span> and deliver it to the reindeer! The sleigh is already warmed up by the time they finish eating.
+
+Congratulations! You've finished every puzzle in Advent of Code 2022!**
