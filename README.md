@@ -30,4 +30,4 @@ This repo contains the solutions to the [Advent of code](https://adventofcode.co
 | 25   | :white_check_mark:   | :white_check_mark:   |
 
 ## this years ranks:
-![ranks]("./ranks.png")
+![ranks](./ranks.png)
